@@ -34,7 +34,7 @@ CRUD 機能<br>
 
 ### 就業 Term の技術
 
-OAuth<br>
+devise<br>
 Ajax<br>
 
 ---
@@ -47,6 +47,7 @@ Vuex<br>
 Vee-validate<br>
 Vue-router<br>
 vuetify<br>
+vue-cahrtkick<br>
 
 ---
 
@@ -82,7 +83,7 @@ https://cacoo.com/diagrams/NVZFzEG3iT6DweaO/581BE
 
 https://cacoo.com/diagrams/uPjSWoyriFqMupRE/B100F
 
-<img width="633" alt="ER図" src="https://user-images.githubusercontent.com/79957027/121735953-cdb59e80-cb31-11eb-98f4-1f3950f97c44.png">
+<img width="572" alt="ER図(修正)" src="https://user-images.githubusercontent.com/79957027/121937006-2fba1200-cd85-11eb-9faa-4cb7e38a4c0d.png">
 
 ---
 
@@ -90,4 +91,4 @@ https://cacoo.com/diagrams/uPjSWoyriFqMupRE/B100F
 
 https://docs.google.com/spreadsheets/d/1Hs_ej1uZPlUCOPPOoWfmwZkjqyNtIBdTP5mFtgZ7oWY/edit#gid=1881857828
 
-<img width="717" alt="画面遷移図" src="https://user-images.githubusercontent.com/79957027/121735969-d73f0680-cb31-11eb-8dd8-d827df2353bd.png">
+<img width="732" alt="画面遷移図(修正)" src="https://user-images.githubusercontent.com/79957027/121978263-cfe25c00-cdc2-11eb-8e34-045562c8d77e.png">
