@@ -83,7 +83,7 @@ https://cacoo.com/diagrams/NVZFzEG3iT6DweaO/581BE
 
 https://cacoo.com/diagrams/uPjSWoyriFqMupRE/B100F
 
-<img width="572" alt="ER図(修正)" src="https://user-images.githubusercontent.com/79957027/121937006-2fba1200-cd85-11eb-9faa-4cb7e38a4c0d.png">
+<img width="392" alt="ER図(修正 Ver 2)" src="https://user-images.githubusercontent.com/79957027/122001263-0338e100-cdeb-11eb-82d3-abce11f4876a.png">
 
 ---
 
