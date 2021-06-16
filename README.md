@@ -45,12 +45,7 @@ Ajax<br>
 ### カリキュラム外の技術
 
 ※随時追加予定<br>
-Vue.js<br>
-Vuex<br>
-Vee-validate<br>
-Vue-router<br>
-vuetify<br>
-vue-cahrtkick<br>
+ransack<br>
 
 ---
 
@@ -86,7 +81,7 @@ https://cacoo.com/diagrams/NVZFzEG3iT6DweaO/581BE
 
 https://cacoo.com/diagrams/uPjSWoyriFqMupRE/B100F
 
-<img width="392" alt="ER図(修正 Ver 2)" src="https://user-images.githubusercontent.com/79957027/122001263-0338e100-cdeb-11eb-82d3-abce11f4876a.png">
+<img width="612" alt="ER図(Ver 3)" src="https://user-images.githubusercontent.com/79957027/122197126-d7912600-ced2-11eb-9864-a404c43a0a87.png">
 
 ---
 
@@ -94,4 +89,4 @@ https://cacoo.com/diagrams/uPjSWoyriFqMupRE/B100F
 
 https://docs.google.com/spreadsheets/d/1Hs_ej1uZPlUCOPPOoWfmwZkjqyNtIBdTP5mFtgZ7oWY/edit#gid=1881857828
 
-<img width="732" alt="画面遷移図(修正)" src="https://user-images.githubusercontent.com/79957027/121978263-cfe25c00-cdc2-11eb-8e34-045562c8d77e.png">
+<img width="639" alt="画面遷移図(Ver 3)" src="https://user-images.githubusercontent.com/79957027/122197173-e4ae1500-ced2-11eb-8eb5-200534ef56b0.png">
