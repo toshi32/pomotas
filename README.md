@@ -38,14 +38,14 @@ CRUD 機能<br>
 ### 就業 Term の技術
 
 devise<br>
-Ajax<br>
+Ajax(ポモドーロタイマー(Javascript の非同期処理に使用予定))<br>
 
 ---
 
 ### カリキュラム外の技術
 
 ※随時追加予定<br>
-ransack<br>
+ransack(タスクの絞り込み検索)<br>
 
 ---
 
@@ -81,7 +81,7 @@ https://cacoo.com/diagrams/NVZFzEG3iT6DweaO/581BE
 
 https://cacoo.com/diagrams/uPjSWoyriFqMupRE/B100F
 
-<img width="612" alt="ER図(Ver 3)" src="https://user-images.githubusercontent.com/79957027/122197126-d7912600-ced2-11eb-9864-a404c43a0a87.png">
+<img width="620" alt="ER(ver 4)" src="https://user-images.githubusercontent.com/79957027/122229893-184d6700-cef4-11eb-994a-34db1dd8291c.png">
 
 ---
 
