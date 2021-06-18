@@ -4,27 +4,16 @@
     <title>Pomotas</title>
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
 
   <body>
-    <% if user_signed_in? %>
-      <%= link_to "タスク投稿", tasks_path %>
-      <%= link_to "マイページ", user_path(current_user.id) %>
-      <%= link_to "ログアウト", destroy_user_session_path, method: :delete %>
-    <% else %>
-      <%= link_to "新規登録", new_user_registration_path %>
-      <%= link_to "ログイン", new_user_session_path %>
-    <% end %>
-
-    <% if notice %>
-      <p class="alert alert-notice"><%= notice %></p>
-    <% end %>
-    <% if alert %>
-      <p class="alert alert-error"><%= alert %></p>
-    <% end %>
-    <%= yield %>
+    <%= render 'layouts/header' %>
+    <div class="container-fluid py-4 <%= devise_controller? ? 'mw-md' : 'mw-xl' %>">
+      <%= yield %>
+    </div>
   </body>
 </html>
